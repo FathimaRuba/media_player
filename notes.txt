@@ -1,0 +1,7 @@
+media player:
+- frontend: react, backend: json server
+- upload,delete,view youtube video
+- add category
+- view,delete added categories
+- view and manage watch history
+- 
